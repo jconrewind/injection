@@ -1,0 +1,47 @@
+[2021-06-11T23:17:27.666] [INFO] default - SERVER: SL DataViewServer Service start... pwd:/Users/ju/Desktop/injection pid:85456
+[2021-06-11T23:17:30.175] [INFO] default - SERVER: SL DataViewServer Service start... pwd:/Users/ju/Desktop/injection pid:85460
+[2021-06-11T23:17:37.000] [INFO] default - SERVER: Service start... pwd:/Users/ju/Desktop/injection pid:85463
+[2021-06-11T23:17:39.928] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:85464
+[2021-06-11T23:20:57.944] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:85871
+[2021-06-11T23:20:59.810] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:85877
+[2021-06-11T23:21:02.558] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:85882
+[2021-06-11T23:21:18.368] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:85900
+[2021-06-11T23:23:07.260] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:85932
+[2021-06-11T23:23:25.210] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:85937
+[2021-06-11T23:23:34.479] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:85944
+[2021-06-11T23:31:38.122] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:86137
+[2021-06-11T23:34:12.665] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:86165
+[2021-06-11T23:34:20.754] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:86172
+[2021-06-11T23:34:20.766] [INFO] default - SERVER: SL DataViewServer - is\nlistening on port: 20026 pwd:/Users/ju/Desktop/injection pid:86172
+[2021-06-11T23:34:41.114] [INFO] default - SERVER: Server start... pwd:/Users/ju/Desktop/injection pid:86178
+[2021-06-11T23:34:41.121] [INFO] default - SERVER: Server start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86178
+[2021-06-11T23:34:51.714] [INFO] default - SERVER: Server start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86190
+[2021-06-11T23:35:05.461] [INFO] default - SERVER: start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86201
+[2021-06-11T23:35:09.814] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86209
+[2021-06-11T23:35:49.845] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86238
+[2021-06-11T23:36:22.762] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86253
+[2021-06-11T23:36:57.592] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86279
+[2021-06-11T23:37:14.252] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86285
+[2021-06-11T23:37:17.052] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86289
+[2021-06-11T23:37:48.097] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86300
+[2021-06-11T23:38:08.235] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86314
+[2021-06-11T23:38:09.667] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86322
+[2021-06-11T23:38:25.560] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86328
+[2021-06-11T23:38:34.126] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86333
+[2021-06-11T23:38:52.291] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86339
+[2021-06-11T23:39:33.007] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86361
+[2021-06-11T23:43:29.377] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86404
+[2021-06-11T23:43:42.619] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86418
+[2021-06-11T23:43:45.019] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86426
+[2021-06-11T23:44:52.089] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86439
+[2021-06-11T23:44:56.111] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86446
+[2021-06-11T23:45:11.481] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86453
+[2021-06-11T23:45:28.892] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86463
+[2021-06-11T23:50:02.567] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86512
+[2021-06-11T23:50:09.194] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86519
+[2021-06-11T23:53:53.951] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86552
+[2021-06-11T23:54:00.086] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86559
+[2021-06-11T23:54:07.843] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86565
+[2021-06-11T23:54:25.100] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86571
+[2021-06-11T23:58:48.752] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86747
+[2021-06-11T23:59:28.457] [INFO] default - SERVER: Start... port: 20026 pwd:/Users/ju/Desktop/injection pid:86757
