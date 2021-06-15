@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-exports.heartbeat = (res) => {
+exports.heartbeat = (_, res) => {
   fs.readFile('version', (err, data) => {
     if (err?.code === 'ENOENT') {
       return res.send({ version: 'undefined' });
